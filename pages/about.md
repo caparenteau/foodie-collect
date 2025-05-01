@@ -14,14 +14,15 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site was created for SLIS:5030 Class to:
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- Practice using CB GH
+- Showcase a collection of interest, in this case, meals eaten
+- May assist restaurant goers in decision-making, being able to see images of menu items
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+  ## History of the Collection
+
+This paragraph contains a description of the history of the collection
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
