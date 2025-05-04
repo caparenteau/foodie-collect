@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="coll002" width="75" %}
+{% include feature/image.html objectid="coll004" width="75" caption="Foodie Collection" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -20,7 +20,6 @@ Trying new foods, and supporting local restaurants, are some of the creator's fa
 - A few sides
 - And of course dessert!
 
- ## Thanks for visiting!
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
