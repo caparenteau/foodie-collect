@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-Trying new foods, and supporting local restaurants, are some of the author's favorite things in life. But it is sometimes tough scouring Yelp reviews and online menus to decide if a new place is worth the trip. This collection of photos is designed to help guide the local "foodie," without all of the fluff! It includes:
+Trying new foods, and supporting local restaurants, are some of the creator's favorite things in life. But, it is sometimes tough scouring the Yelp reviews and online menus to decide if a new place is worth the trip. This collection of photos is designed to help guide the local "foodie," without all of the fluff! It includes:
 
 - Entrees
 - A few sides
