@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Foodie Collection 
+title: What Chloe Ate: A Foodie Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a collection of Chloe's meals for SLIS:5030
+tagline: Meals seen through pictures collected for SLIS:5030
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Meals from around the Cedar Rapids Metro area, for those who are interested in trying something new, or those who are just curious!
+description: Documenting Chloe's eats from around the Cedar Rapids area. Curated to help restaurant-goers, and the otherwise curious.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Chloe Parenteau
 
