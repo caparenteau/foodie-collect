@@ -14,15 +14,13 @@ credits: true
 
 ## About the Collection
 
-This site was created for SLIS:5030 Class to:
+Trying new foods, and supporting local restaurants, is one the creator's favorite things in life. But it is sometimes tough scouring Yelp reviews and online menus for pictures to decide if a place is worth the trip (and hard-earned money!). This collection is designed to help guide the local "foodie". It includes:
 
-- Practice using CB GH
-- Showcase a collection of interest, in this case, meals eaten
-- May assist restaurant goers in decision-making, being able to see images of menu items
+- Entrees
+- A few sides
+- And of course dessert!
 
-  ## History of the Collection
-
-This paragraph contains a description of the history of the collection
+ ## Thanks for visiting!
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
