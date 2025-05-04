@@ -1,6 +1,7 @@
 ---
 title: About
 layout: about
+{% include feature/image.html objectid="coll004" width="75" caption="Foodie Collection" %}
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
