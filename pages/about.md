@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=IMG_6545.jpeg
+{% include feature/jumbotron.html filename=IMG_6545.jpeg
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
